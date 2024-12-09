@@ -77,7 +77,7 @@ Ensure you have the following installed:
     ```bash
     touch weather.sqlite
     ```
-
+    
 4. Set up your environment variables or API keys in the code. For example, add your keys to the services like `weatherapi.com` and `weatherstack.com` in the code itself.
 
 ## Usage
